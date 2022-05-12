@@ -6,7 +6,7 @@ Step 1 : Download datasets
 
 Java Dataset can be downloaded from:
 
-https://docs.google.com/uc?export=download&id=1PZovFibsZIca7Jc-8S1mIp6r08fOAxX7
+https://drive.google.com/file/d/1ri7GlaAH6F_PN2oJJNFnr43BKgGkK8Oy
 
 Python Datasets can be downloaded from:
 
